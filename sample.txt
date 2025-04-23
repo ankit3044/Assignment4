@@ -1,0 +1,4 @@
+Hello, this is line 1.
+This is line 2.
+Python file handling example - line 3.
+Last line of the file.
